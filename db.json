@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Finish MuP",
+      "day": "Feb 10th at 6:40PM",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Finish MuP",
+      "day": "Feb 11th at 7: 40PM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Finish DL ass",
+      "day": "Feb 17th at 9: 00PM",
+      "reminder": false
+    }
+  ]
+}
